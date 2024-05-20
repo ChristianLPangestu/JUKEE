@@ -1,6 +1,3 @@
-Tentu! Berikut adalah contoh README untuk aplikasi pemutar musik sederhana bernama JUKEE yang menggunakan bahasa Java.
-
----
 
 # JUKEE - A Simple Music Player Application
 
