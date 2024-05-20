@@ -55,32 +55,6 @@ To run JUKEE locally on your machine, follow these steps:
    - View the current playlist.
    - Use the request feature to suggest new songs to the Host's playlist.
 
-## Project Structure
-
-```
-Jukee/
-│
-├── src/
-│   ├── com/
-│   │   ├── example/
-│   │   │   ├── jukee/
-│   │   │   │   ├── Main.java
-│   │   │   │   ├── Host.java
-│   │   │   │   ├── Visitor.java
-│   │   │   │   ├── Playlist.java
-│   │   │   │   ├── Song.java
-│   │   │   │   └── RequestHandler.java
-│   │   │
-│   └── ...
-│
-├── bin/
-│   └── ... (compiled .class files)
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
 ## Contributing
 
 We welcome contributions to enhance JUKEE. To contribute, follow these steps:
